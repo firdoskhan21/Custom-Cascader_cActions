@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "scripts": {
+    "test": "react-scripts test --env=jsdom",
+    "start": "react-scripts start",
+    "eject": "react-scripts eject",
+    "build": "react-scripts build"
+  },
+  "name": "Custom dropdown - Ant Design Demo",
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^3.8.2"
+  },
+  "dependencies": {
+    "@ant-design/icons": "latest",
+    "antd": "4.2.0",
+    "array-tree-filter": "2.1.0",
+    "rc-trigger": "4.0.2",
+    "rc-util": "4.20.5",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-scripts": "^3.0.1",
+    "warning": "4.0.3"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
